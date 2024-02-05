@@ -1,0 +1,18 @@
+.h1class{
+    text-align: center;
+}
+.inputclass{
+    text-align: center;
+}
+.buttonclass{
+    text-align: center;
+    margin-top: 10px;
+}
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
